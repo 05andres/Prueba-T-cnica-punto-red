@@ -16,4 +16,5 @@ node version v20.11.1
 ## pasos para levantar el servicio
 npm install
 npm run serve 
+se borra node modules para mejorar el peso
 
